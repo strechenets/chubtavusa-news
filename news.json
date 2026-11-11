@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "updated": "2026-11-11",
+  "items": [
+    {
+      "id": "biowave",
+      "date": "2026-11",
+      "image": "images/bor-curls.jpg",
+      "tag": { "uk": "Нова послуга", "ru": "Новая услуга", "en": "New service" },
+      "title": { "uk": "Тепер у нас є біозавивка", "ru": "Теперь у нас есть биозавивка", "en": "Now we do perms" },
+      "short": { "uk": "Об’єм і текстура надовго.", "ru": "Объём и текстура надолго.", "en": "Long-lasting volume and texture." },
+      "text": {
+        "uk": "Об’єм і текстура надовго. Барбер підбере завивку під твою довжину й стиль.",
+        "ru": "Объём и текстура надолго. Барбер подберёт завивку под твою длину и стиль.",
+        "en": "Long-lasting volume and texture. Your barber will match the perm to your length and style."
+      },
+      "alt": {
+        "uk": "Барберка сушить кучері клієнта дифузором",
+        "ru": "Барбер сушит кудри клиента диффузором",
+        "en": "A barber dries a client's curls with a diffuser"
+      }
+    },
+    {
+      "id": "light",
+      "date": "2026-11",
+      "image": "images/bor-scissors.jpg",
+      "tag": { "uk": "Зима", "ru": "Зима", "en": "Winter" },
+      "title": { "uk": "У Києві відключення? А в нас світло", "ru": "В Киеве отключения? А у нас свет", "en": "Power cuts in Kyiv? We have light" },
+      "short": { "uk": "Генератор, світло й гаряча вода.", "ru": "Генератор, свет и горячая вода.", "en": "Generator, light and hot water." },
+      "text": {
+        "uk": "Працюємо на генераторі: є світло й гаряча вода. Стрижка без перенесень.",
+        "ru": "Работаем на генераторе: есть свет и горячая вода. Стрижка без переносов.",
+        "en": "We run on a generator, with light and hot water. No rescheduling your haircut."
+      },
+      "alt": {
+        "uk": "Барберка стриже ножицями",
+        "ru": "Барбер стрижёт ножницами",
+        "en": "A barber cutting hair with scissors"
+      }
+    },
+    {
+      "id": "beard",
+      "date": "2026-10",
+      "image": "images/bor-beard.jpg",
+      "tag": { "uk": "Борода", "ru": "Борода", "en": "Beard" },
+      "title": { "uk": "Борода з чітким контуром", "ru": "Борода с чётким контуром", "en": "A beard with a sharp outline" },
+      "short": { "uk": "Моделювання бороди від 350 грн.", "ru": "Моделирование бороды от 350 грн.", "en": "Beard shaping from 350 UAH." },
+      "text": {
+        "uk": "Моделювання бороди від 350 грн, гоління від 350 грн. Ціна залежить від рівня майстра.",
+        "ru": "Моделирование бороды от 350 грн, бритьё от 350 грн. Цена зависит от уровня мастера.",
+        "en": "Beard shaping from 350 UAH, shaving from 350 UAH. The price depends on the barber's level."
+      },
+      "alt": {
+        "uk": "Барберка підрівнює клієнтові бороду",
+        "ru": "Барбер подравнивает клиенту бороду",
+        "en": "A barber trims a client's beard"
+      }
+    }
+  ]
+}
