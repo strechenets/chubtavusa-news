@@ -1,35 +1,96 @@
 {
   "version": 1,
-  "updated": "2026-11-11",
+  "updated": "2026-11-23",
   "items": [
     {
-      "id": "biowave",
-      "date": "2026-11",
-      "image": "images/bor-curls.jpg",
+      "id": "december-booking",
+      "date": "2026-11-25",
+      "until": "2026-12-31",
+      "image": "images/dec-booking.jpg",
       "tag": {
-        "uk": "Нова послуга",
-        "ru": "Новая услуга",
-        "en": "New service"
+        "uk": "Грудень",
+        "ru": "Декабрь",
+        "en": "December"
       },
       "title": {
-        "uk": "Тепер у нас є біозавивка",
-        "ru": "Теперь у нас есть биозавивка",
-        "en": "Now offering perms"
+        "uk": "Грудень: запишіться наперед",
+        "ru": "Декабрь: запишитесь заранее",
+        "en": "December: book ahead"
       },
       "short": {
-        "uk": "Об’єм і текстура надовго.",
-        "ru": "Объём и текстура надолго.",
-        "en": "Long-lasting volume and texture."
+        "uk": "Вечори й вихідні розбирають першими.",
+        "ru": "Вечера и выходные разбирают первыми.",
+        "en": "Evenings and weekends go first."
       },
       "text": {
-        "uk": "Об’єм і текстура надовго. Барбер підбере завивку під твою довжину й стиль.",
-        "ru": "Объём и текстура надолго. Барбер подберёт завивку под твою длину и стиль.",
-        "en": "Long-lasting volume and texture. Your barber will match the perm to your length and style."
+        "uk": "Грудень — час корпоративів і свят, тож вечори й вихідні у барберів розбирають першими. Оберіть свого майстра й зручний час онлайн уже зараз.",
+        "ru": "Декабрь — время корпоративов и праздников, поэтому вечера и выходные у барберов разбирают первыми. Выберите своего мастера и удобное время онлайн уже сейчас.",
+        "en": "December is the season of office parties and holidays, so evening and weekend slots go first. Pick your barber and a convenient time online now."
       },
       "alt": {
-        "uk": "Барберка сушить кучері клієнта дифузором",
-        "ru": "Барбер сушит кудри клиента диффузором",
-        "en": "A barber dries a client’s curls with a diffuser"
+        "uk": "Стійка адміністратора біля цегляної стіни й барберський стовп",
+        "ru": "Стойка администратора у кирпичной стены и барберский столб",
+        "en": "The front desk by a brick wall with a barber pole"
+      }
+    },
+    {
+      "id": "fade-beard",
+      "date": "2026-11-25",
+      "image": "images/fade-beard.jpg",
+      "tag": {
+        "uk": "Стрижки",
+        "ru": "Стрижки",
+        "en": "Haircuts"
+      },
+      "title": {
+        "uk": "Фейд і борода в одному стилі",
+        "ru": "Фейд и борода в одном стиле",
+        "en": "A fade and beard in one style"
+      },
+      "short": {
+        "uk": "Чіткий контур і плавний перехід.",
+        "ru": "Чёткий контур и плавный переход.",
+        "en": "Sharp outline, smooth blend."
+      },
+      "text": {
+        "uk": "Фейд з текстурою зверху й оформлена борода: чіткий контур, плавний перехід від скроні до бороди. Виглядає доглянуто навіть без укладки.",
+        "ru": "Фейд с текстурой сверху и оформленная борода: чёткий контур, плавный переход от виска к бороде. Выглядит ухоженно даже без укладки.",
+        "en": "A textured fade with a shaped beard: a sharp outline and a smooth blend from temple to beard. Looks well-groomed even without styling."
+      },
+      "alt": {
+        "uk": "Клієнт з фейдом і оформленою бородою, вид збоку",
+        "ru": "Клиент с фейдом и оформленной бородой, вид сбоку",
+        "en": "A client with a fade and a shaped beard, side view"
+      }
+    },
+    {
+      "id": "texture-length",
+      "date": "2026-11-27",
+      "image": "images/texture-length.jpg",
+      "tag": {
+        "uk": "Стрижки",
+        "ru": "Стрижки",
+        "en": "Haircuts"
+      },
+      "title": {
+        "uk": "Довжина без зайвої ваги",
+        "ru": "Длина без лишнего веса",
+        "en": "Length without the bulk"
+      },
+      "short": {
+        "uk": "Легкий природний об’єм.",
+        "ru": "Лёгкий естественный объём.",
+        "en": "Light, natural volume."
+      },
+      "text": {
+        "uk": "Не хочеться коротко? Залишимо довжину, приберемо зайву вагу й додамо руху: волосся лягає саме, з легким природним об’ємом.",
+        "ru": "Не хочется коротко? Оставим длину, уберём лишний вес и добавим движения: волосы ложатся сами, с лёгким естественным объёмом.",
+        "en": "Don’t want it short? We keep the length, remove the bulk and add movement, so your hair falls into place with light, natural volume."
+      },
+      "alt": {
+        "uk": "Клієнт з подовженою текстурною стрижкою",
+        "ru": "Клиент с удлинённой текстурной стрижкой",
+        "en": "A client with a longer textured haircut"
       }
     },
     {
@@ -60,37 +121,39 @@
         "uk": "Барберка стриже ножицями",
         "ru": "Барбер стрижёт ножницами",
         "en": "A barber cutting hair with scissors"
-      }
+      },
+      "until": "2026-12-31"
     },
     {
-      "id": "beard",
-      "date": "2026-10",
-      "image": "images/bor-beard.jpg",
+      "id": "biowave",
+      "date": "2026-11",
+      "image": "images/bor-curls.jpg",
       "tag": {
-        "uk": "Борода",
-        "ru": "Борода",
-        "en": "Beard"
+        "uk": "Нова послуга",
+        "ru": "Новая услуга",
+        "en": "New service"
       },
       "title": {
-        "uk": "Борода з чітким контуром",
-        "ru": "Борода с чётким контуром",
-        "en": "A beard with a sharp outline"
+        "uk": "Тепер у нас є біозавивка",
+        "ru": "Теперь у нас есть биозавивка",
+        "en": "Now offering perms"
       },
       "short": {
-        "uk": "Моделювання бороди від 350 грн.",
-        "ru": "Моделирование бороды от 350 грн.",
-        "en": "Beard shaping from 350 UAH."
+        "uk": "Об’єм і текстура надовго.",
+        "ru": "Объём и текстура надолго.",
+        "en": "Long-lasting volume and texture."
       },
       "text": {
-        "uk": "Моделювання бороди від 350 грн, гоління від 350 грн. Ціна залежить від рівня майстра.",
-        "ru": "Моделирование бороды от 350 грн, бритьё от 350 грн. Цена зависит от уровня мастера.",
-        "en": "Beard shaping from 350 UAH, shaving from 350 UAH. The price depends on the barber’s level."
+        "uk": "Об’єм і текстура надовго. Барбер підбере завивку під твою довжину й стиль.",
+        "ru": "Объём и текстура надолго. Барбер подберёт завивку под твою длину и стиль.",
+        "en": "Long-lasting volume and texture. Your barber will match the perm to your length and style."
       },
       "alt": {
-        "uk": "Барберка підрівнює клієнтові бороду",
-        "ru": "Барбер подравнивает клиенту бороду",
-        "en": "A barber trims a client’s beard"
-      }
+        "uk": "Барберка сушить кучері клієнта дифузором",
+        "ru": "Барбер сушит кудри клиента диффузором",
+        "en": "A barber dries a client’s curls with a diffuser"
+      },
+      "until": "2026-12-31"
     }
   ]
 }
